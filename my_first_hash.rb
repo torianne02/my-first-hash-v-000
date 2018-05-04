@@ -2,11 +2,10 @@ def my_hash
   your_hash = {"cat" => "Mr. Grey", "dog" => "Big Ben"}
 end
 
-
 def shipping_manifest
   the_manifest = {
-             "whale bone corsets" => 5
-             "porcelain" => 2
+             "whale bone corsets" => 5,
+             "porcelain" => 2,
              "oil paintings" => 3
             }
 end
